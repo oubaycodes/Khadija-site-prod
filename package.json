@@ -4,6 +4,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "cross-env NODE_ENV=dev nodemon server.js",
+    "start": "npm run prod",
     "prod": "cross-env NODE_ENV=prod node server.js"
   },
   "author": "",
