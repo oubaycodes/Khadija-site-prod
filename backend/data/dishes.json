@@ -1,0 +1,157 @@
+[
+  {
+    "altText": "Tarte aux noix",
+    "descriptionText": "Un mariage parfait de noix croquantes et de carottes fondantes dans une tarte gourmande.",
+    "imageNumber": 1
+  },
+  {
+    "altText": "Dessert avec chocolat",
+    "descriptionText": "Une Danette maison, c'est offrir un instant de bonheur.",
+    "imageNumber": 2
+  },
+  {
+    "altText": "Mini tarte au citron",
+    "descriptionText": "Quand l'acidité rencontre la douceur, naît une tarte au citron inoubliable.",
+    "imageNumber": 3
+  },
+  {
+    "altText": "Tres Leches Cake",
+    "descriptionText": "Sous sa croûte dorée se cache un cœur tendre et sucré, comme une douce étreinte.",
+    "imageNumber": 4
+  },
+  {
+    "altText": "Les Gouffres",
+    "descriptionText": "Chaque gouffre est une promesse de douceur, une invitation à la gourmandise.",
+    "imageNumber": 5
+  },
+  {
+    "altText": "Mini Cheesecake",
+    "descriptionText": "L'art de la pâtisserie, c'est transformer de simples ingrédients en souvenirs inoubliables.",
+    "imageNumber": 6
+  },
+  {
+    "altText": "Mini quiche au saumon",
+    "descriptionText": "L'élégance du saumon, capturée dans une quiche dorée.",
+    "imageNumber": 7
+  },
+  {
+    "altText": "Couscous Ffaya",
+    "descriptionText": "Un voyage culinaire où le sucré et le salé se rencontrent dans un Couscous Raffiné.",
+    "imageNumber": 8
+  },
+  {
+    "altText": "Mroziya",
+    "descriptionText": "Un voyage gustatif au cœur du Maroc, où la tendreté de la viande se marie à l'onctuosité du miel, sublimée par une touche de cannelle et de safran.",
+    "imageNumber": 9
+  },
+  {
+    "altText": "Paella",
+    "descriptionText": "Un régal pour les amateurs de fruits de mer et de cuisine méditerranéenne, notre paella est un chef-d'œuvre culinaire.",
+    "imageNumber": 10
+  },
+  {
+    "altText": "Cheese cake Raffaello",
+    "descriptionText": "Laissez-vous envoûter par la douceur exotique de notre cheesecake Raffaello, une fusion parfaite de noix de coco et d'amandes.",
+    "imageNumber": 11
+  },
+  {
+    "altText": "Basbossa au pistache",
+    "descriptionText": "Découvrez un trésor de douceur avec notre tarte pistache orientale, où chaque bouchée révèle une richesse aromatique incomparable.",
+    "imageNumber": 12
+  },
+  {
+    "altText": "Mini tarte Oreo",
+    "descriptionText": "Découvrez le mariage parfait entre le biscuit Oreo et une ganache fondante dans nos mini tartes, un plaisir en format mini.",
+    "imageNumber": 13
+  },
+  {
+    "altText": "Les coquelets à ma façon",
+    "descriptionText": "Savourez la tendreté du coquelet rôti au four, sublimé par l'accompagnement de légumes de saison, délicatement parfumés.",
+    "imageNumber": 14
+  },
+  {
+    "altText": "Ma création",
+    "descriptionText": "Laissez-vous surprendre par notre création unique : un gâteau trois étages qui allie textures fondantes et croustillantes dans une harmonie exquise.",
+    "imageNumber": 15
+  },
+  {
+    "altText": "Saffa",
+    "descriptionText": "Quand la tradition rencontre la passion, cela donne notre Saffa, un plat qui évoque l'âme vibrante de maroc",
+    "imageNumber": 16
+  },
+  {
+    "altText": "Dessert au chocolat",
+    "descriptionText": "Une Danette maison, c'est offrir un instant de bonheur.",
+    "imageNumber": 17
+  },
+  {
+    "altText": "Pastila, au poisson familial",
+    "descriptionText": "Découvrez l'essence de la cuisine marocaine avec notre plat de poisson, préparé selon une recette traditionnelle qui évoque les côtes atlantiques.",
+    "imageNumber": 18
+  },
+  {
+    "altText": "Mini tarte aux pommes",
+    "descriptionText": "Nos mini tartes aux pommes façon fleurs sont un véritable bouquet de saveurs, une harmonie parfaite entre croquant et fondant.",
+    "imageNumber": 19
+  },
+  {
+    "altText": "Donuts délice",
+    "descriptionText": "Des donuts moelleux et sucrés, souvent garnis de glaçage et de sprinkles colorés, offrant une texture légère et un goût délicieux. Parfait pour un petit plaisir sucré",
+    "imageNumber": 20
+  },
+  {
+    "altText": "Tarte aux pommes à ma façon",
+    "descriptionText": "Des tartes en forme de pommes, avec une pâte croustillante et une garniture de pommes caramélisées. Elles sont aussi jolies que savoureuses",
+    "imageNumber": 21
+  },
+  {
+    "altText": "Kunafa à ma façon",
+    "descriptionText": "Un dessert croustillant à base de pâtes filo garnies de fromage doux ou de crème, le tout arrosé de sirop sucré. Préparé à ma façon, il allie croquant et douceur pour une saveur unique.",
+    "imageNumber": 22
+  },
+  {
+    "altText": "Mllaoui",
+    "descriptionText": " Une crêpe marocaine légère et moelleuse, souvent garnie de sucre, de miel ou de confiture. Parfaite pour un petit-déjeuner ou un goûter savoureux",
+    "imageNumber": 23
+  },
+  {
+    "altText": "Bouchiyar  de Nord",
+    "descriptionText": "Des bouchées marocaines à base de pâte feuilletée, garnies de viande hachée, d’épices et d’herbes. Spécialité du nord du Maroc, elles sont savoureuses et parfaites pour un apéritif ou un encas.",
+    "imageNumber": 24
+  },
+  {
+    "altText": "Pastilla au poisson",
+    "descriptionText": "Une délicieuse tourte marocaine, avec une pâte croustillante garnie de poisson, d’épices, et parfois de fruits secs. Savoureuse et parfumée, elle combine croquant et douceur en un plat raffiné.",
+    "imageNumber": 25
+  },
+  {
+    "altText": "Tarta de Santiago",
+    "descriptionText": "Un gâteau espagnol traditionnel à base d’amandes, léger et fondant. Parfumé à la cannelle et souvent décoré d’une croix de Saint-Jacques en sucre, il est délicieux et symbolique de la région de Galice.",
+    "imageNumber": 26
+  },
+  {
+    "altText": "Tarta Santiago",
+    "descriptionText": "Un gâteau espagnol traditionnel à base d’amandes, léger et fondant. Parfumé à la cannelle et souvent décoré d’une croix de Saint-Jacques en sucre, il est délicieux et symbolique de la région de Galice.",
+    "imageNumber": 27
+  },
+  {
+    "altText": "Mini burger",
+    "descriptionText": " Petits burgers savoureux avec un steak tendre, garnis de fromage, salade et sauce, servis dans de petits pains moelleux. Parfaits pour un apéritif ou un repas convivial",
+    "imageNumber": 28
+  },
+  {
+    "altText": "Basboussa , aux formes de fleurs",
+    "descriptionText": "Un gâteau semoule doux et moelleux, parfumé à la rose ou à la fleur d’oranger, décoré en forme de fleurs. Un délice sucré et élégant pour les occasions spéciales.",
+    "imageNumber": 29
+  },
+  {
+    "altText": "Tanjiya au four",
+    "descriptionText": "Un plat marocain traditionnel, préparé avec de la viande (souvent de l'agneau) cuite lentement avec des épices, des légumes et parfois des fruits secs, le tout mijoté au four pour une texture tendre et des saveurs riches",
+    "imageNumber": 30
+  },
+  {
+    "altText": "Tortillas à larache",
+    "descriptionText": "Des tortillas marocaines, fines et moelleuses, souvent servies avec des plats en sauce ou comme accompagnement. Spécialité de la région de Larache, elles sont idéales pour accompagner des repas traditionnels.",
+    "imageNumber": 31
+  }
+]

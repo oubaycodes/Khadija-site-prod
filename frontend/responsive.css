@@ -1,0 +1,213 @@
+@media (max-width: 1335px) {
+  .hero--button {
+    font-size: 1.8rem;
+  }
+}
+@media (max-width: 1287px) {
+  .hero--button {
+    font-size: 1.6rem;
+  }
+}
+@media (max-width: 1187px) {
+  .hero--button {
+    font-size: 1.4rem;
+    font-weight: 700;
+  }
+}
+
+@media (max-width: 1320px) {
+  .serving--feature {
+    font-size: 1.1rem;
+  }
+}
+
+@media (max-width: 1200px) {
+  /* html {
+      font-size: 50%;
+    } */
+  .nav--button.special {
+    font-size: 1.6rem;
+  }
+}
+@media (max-width: 1140px) {
+  .cta--para--title {
+    font-size: 3.5rem;
+  }
+  .hero--header {
+    font-size: 6.4rem;
+  }
+}
+@media (max-width: 1120px) {
+  .serving--feature {
+    font-size: 1rem;
+  }
+}
+@media (max-width: 1095px) {
+  html {
+    font-size: 50%;
+  }
+  .menu-box {
+    margin: 3rem 5%;
+  }
+  .hero--button {
+    font-size: 1.6rem;
+  }
+}
+@media (max-width: 955px) {
+  :root {
+    --carousel-item-size: 23.6%;
+    --carousel-display-number: 4;
+    --carousel-menu-size: 46.5%;
+    --menu-display-number: 2;
+  }
+  .meal--card {
+    width: 30%;
+  }
+  /* .carousel--item {
+      flex: 0 0 23.5%;
+    } */
+  .hero--button {
+    font-size: 1.4rem;
+  }
+}
+@media (max-width: 940px) {
+  .benefit--para--text {
+    font-size: 1.6rem;
+  }
+}
+
+@media (max-width: 877px) {
+  html {
+    font-size: 45%;
+  }
+  .showcase--mesh {
+    padding: 1rem 10%;
+    background-color: transparent;
+  }
+
+  .showcase--grid {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.5rem;
+  }
+}
+@media (max-width: 770px) {
+  html {
+    font-size: 42%;
+  }
+  .hero--img {
+    transform: scale(1.2);
+  }
+}
+@media (max-width: 750px) {
+  :root {
+    --carousel-meal-size: 49%;
+    --meal-display-number: 2;
+  }
+  .serving--feature {
+    font-size: 1.8rem;
+  }
+}
+@media (max-width: 604px) {
+  :root {
+    /* --carousel-meal-size: 49%;
+    --meal-display-number: 1; */
+  }
+}
+
+@media (max-width: 635px) {
+  .benefits-cards {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+  .benefit--card {
+    width: 100%;
+  }
+}
+@media (max-width: 670px) {
+  html {
+    font-size: 38%;
+  }
+  :root {
+    --carousel-margin: 1.5;
+  }
+}
+@media (max-width: 570px) {
+  .hero--container {
+    flex-direction: column;
+    gap: 1.6rem;
+  }
+  .section--hero {
+    height: 90.6rem;
+  }
+  .hero--button {
+    font-size: 1.6rem;
+  }
+  .hero--para {
+    width: 100%;
+    text-align: center;
+    padding: 0 3rem;
+  }
+  .hero--buttons {
+    justify-content: center;
+  }
+  .cta--inputs {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .cta--input {
+    width: 100%;
+  }
+  .cta--button {
+    width: 100%;
+  }
+  :root {
+    --carousel-item-size: 31.9%;
+    --carousel-display-number: 3;
+    --carousel-margin: 1.6;
+    --menu-margin: 10;
+  }
+  .cta--elements {
+    padding: 5rem 2rem;
+  }
+  .cta--para {
+    text-align: center;
+  }
+}
+@media (max-width: 425px) {
+  .cta {
+    grid-template-columns: 1fr;
+  }
+  .cta--image {
+    grid-row: 1;
+  }
+}
+@media (max-width: 519px) {
+  .showcase--mesh {
+    padding: 1rem 6%;
+  }
+  :root {
+    --carousel-margin: 2;
+  }
+}
+@media (max-width: 450px) {
+  .header--nav {
+    display: none;
+  }
+}
+@media (max-width: 690px) {
+  .serving--feature {
+    font-size: 1.6rem;
+  }
+}
+@media (max-width: 600px) {
+  .serving--type {
+    grid-template-columns: 1fr;
+  }
+}
+@media (max-width: 375px) {
+  :root {
+    --carousel-margin: 3.3;
+  }
+}

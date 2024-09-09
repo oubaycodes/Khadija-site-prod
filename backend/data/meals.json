@@ -1,0 +1,8 @@
+[
+  {
+    "altText": "le plat de quelque'un",
+    "descriptionText": "l'action de traversement des laques d'or",
+    "mealImage": [1, 2, 3, 4, 5],
+    "mealIngredients": ["orosopita", "comertation", "du pain", "un morceau"]
+  }
+]
