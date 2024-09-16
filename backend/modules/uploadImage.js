@@ -19,7 +19,9 @@ const uploadImage = async (request) => {
             public_id: request.altText + (index + 1),
             overwrite: true,
           });
-          console.log(request.altText + " was uploaded successfully");
+          console.log(
+            request.altText + (index + 1) + " was uploaded successfully"
+          );
           return uploadResult.secure_url;
         })
       );

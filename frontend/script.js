@@ -239,6 +239,25 @@ setInterval(() => {
     `;
     menuCards.insertAdjacentHTML("beforeend", html);
   });
+  const mealCard = document.querySelectorAll(".meal--card");
+  mealCard.forEach((card) => {
+    card.addEventListener("mouseenter", (e) => {
+      const mealImage = e.target.querySelector(".meal--img img");
+      const arrayName = mealImage.alt;
+      const mealImages = mealData.filter(
+        (meal) => meal.altText === arrayName
+      )[0].mealImage;
+
+      const intervalId = setInterval(() => {
+        const chosenImage = Math.floor(Math.random() * (mealImages.length - 1));
+        mealImage.src = mealImages[chosenImage];
+      }, 2000);
+      e.target.addEventListener("mouseout", () => {
+        clearInterval(intervalId);
+        mealImage.src = mealImages[0];
+      });
+    });
+  });
 })();
 
 const copyYear = document.querySelector(".copy-year");
