@@ -100,7 +100,7 @@
 }
 @media (max-width: 750px) {
   :root {
-    --carousel-meal-size: 49%;
+    --carousel-meal-size: 45%;
     --meal-display-number: 2;
   }
   .serving--feature {

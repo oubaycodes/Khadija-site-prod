@@ -224,7 +224,7 @@ setInterval(() => {
     mealCarousel.insertAdjacentHTML("beforeend", html);
   });
   const menuJson = await (await fetch(shortUrl + "/menus/")).json();
-  const menuData = menuJson.data;
+  const menuData = shuffleArray(menuJson.data);
   const menuCards = document.querySelector(".menu-cards");
   menuCards.innerHTML = "";
   menuData.forEach((card) => {
