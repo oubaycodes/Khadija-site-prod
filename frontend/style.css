@@ -830,3 +830,10 @@ footer {
   font-size: 1.8rem;
   text-align: center;
 }
+.slogan {
+  font-size: 3.2rem;
+  color: #f8f9fa;
+  font-weight: bold;
+  margin-bottom: 1.6rem;
+  align-self: flex-start;
+}
