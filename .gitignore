@@ -1,6 +1,5 @@
 node_modules
 .vscode
 config.env
-frontend/img/meals
-frontend/img/product-images
-frontend/img/menus
+dist
+.parcel-cache

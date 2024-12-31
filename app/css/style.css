@@ -601,7 +601,7 @@ path {
   align-items: center;
   width: 100%;
   height: 40rem;
-  background-image: url(./../public/img/);
+  /* background-image: url(./../public/img/); */
   /* background-position: center;
   background-size: cover; */
 }
