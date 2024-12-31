@@ -161,7 +161,7 @@ path {
 .hero--img {
   height: 100%;
   width: 40%;
-  background-image: url(./../public/img/Untitled.png);
+  background-image: url(./../public/img/Untitled.webp);
   background-size: contain;
   background-repeat: no-repeat;
   z-index: 1;
@@ -455,7 +455,7 @@ path {
 .cta--image {
   /* width: 35%; */
   height: 100%;
-  background-image: url(./../public/img/cta.jpg);
+  background-image: url(./../public/img/cta.webp);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
