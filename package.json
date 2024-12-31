@@ -1,12 +1,8 @@
 {
   "name": "khadija-porfolio",
   "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "dev": "cross-env NODE_ENV=dev nodemon server.js",
-    "start": "npm run prod",
-    "prod": "cross-env NODE_ENV=prod node server.js"
-  },
+  "main": "index.html",
+  "scripts": {},
   "author": "",
   "license": "ISC",
   "description": "",
